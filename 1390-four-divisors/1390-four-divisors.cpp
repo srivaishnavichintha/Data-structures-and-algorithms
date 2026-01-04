@@ -1,27 +1,27 @@
 class Solution {
 public:
-    vector<int> getdivisors(int n) {
-        vector<int> divisors;
-        for (int i = 1; i <= sqrt(n); i++) {
-            if (n % i == 0) {
-                if (n / i == i) {
-                    divisors.push_back(i);
-                } else {
-                    divisors.push_back(i);
-                    divisors.push_back(n / i);
+    int sumFourDivisors(vector<int>& v) {
+        int totalsum = 0;
+        for(int i = 0; i < v.size(); i++) {
+            int cnt = 0, sum = 0;
+            int num = v[i];
+            
+            for(int j = 1; j * j <= num; j++) {
+                if(num % j == 0) {
+                    sum += j;
+                    cnt++;
+                    
+                    if(j != num / j) {
+                        sum += num / j;
+                        cnt++;
+                    }
                 }
             }
-        }
-        return divisors;
-    }
-    int sumFourDivisors(vector<int>& nums) {
-        int sum=0;
-        for(int i=0;i<nums.size();i++){
-            vector<int> temp=getdivisors(nums[i]);
-            if(temp.size()==4){
-                sum+=accumulate(temp.begin(),temp.end(),0);
+            
+            if(cnt == 4) {
+                totalsum += sum;
             }
         }
-        return sum;
+        return totalsum;
     }
 };
