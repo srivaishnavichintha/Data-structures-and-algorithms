@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
