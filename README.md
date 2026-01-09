@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0016-3sum-closest) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
