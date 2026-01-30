@@ -32,10 +32,9 @@ public:
                 result += sign * num;
                 num = 0;
 
-                result *= st.top(); st.pop(); // sign
-                result += st.top(); st.pop(); // previous result
+                result *= st.top(); st.pop();
+                result += st.top(); st.pop();
             }
-            // spaces ignored
         }
 
         result += sign * num;
