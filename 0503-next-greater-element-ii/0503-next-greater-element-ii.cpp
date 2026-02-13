@@ -9,7 +9,6 @@ public:
             if(!st.empty() && i < n) result[i]=st.top();
             st.push(nums[i%n]);
         }
-
         return result; 
     }
 };
