@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
+| [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
