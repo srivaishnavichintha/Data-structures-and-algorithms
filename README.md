@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 ## Greedy
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
