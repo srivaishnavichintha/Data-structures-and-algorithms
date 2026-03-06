@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> result;
-    void sset(vector<int>& nums, int i, vector<int> res) {
+    void sset(vector<int>& nums, int i, vector<int> &res) {
        result.push_back(res);
        for(int j=i;j<nums.size();j++){
         if(j>i && nums[j]==nums[j-1])
@@ -13,7 +13,8 @@ public:
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        sset(nums, 0,  vector<int>());
+        vector<int> res;
+        sset(nums, 0,  res);
         return result;
     }
 };
