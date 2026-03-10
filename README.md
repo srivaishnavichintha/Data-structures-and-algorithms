@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
