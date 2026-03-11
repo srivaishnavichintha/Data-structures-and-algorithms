@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
@@ -211,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
