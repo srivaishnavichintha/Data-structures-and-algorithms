@@ -6,7 +6,7 @@ public:
         int t=0,sum=0;
         for(int i=0;i<nums.size();i++){
             sum+=nums[i];
-            if(mp.count(sum-k))
+          
              t+=mp[sum-k];
             mp[sum]++;
         }
