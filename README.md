@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Enumeration
 |  |
