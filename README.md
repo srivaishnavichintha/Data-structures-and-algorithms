@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
+| [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
