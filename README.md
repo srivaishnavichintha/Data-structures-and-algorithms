@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0788-rotated-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [3783-mirror-distance-of-an-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3783-mirror-distance-of-an-integer) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
+| [0788-rotated-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
