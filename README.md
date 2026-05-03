@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0016-3sum-closest) |
+| [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 ## String
 |  |
