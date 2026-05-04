@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
