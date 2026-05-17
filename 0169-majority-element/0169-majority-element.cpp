@@ -8,7 +8,6 @@ public:
             if(count == 0) {
                 candidate = num;
             }
-
             if(num == candidate) count++;
             else count--;
         }
