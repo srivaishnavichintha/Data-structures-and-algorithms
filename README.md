@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 ## String
@@ -310,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
