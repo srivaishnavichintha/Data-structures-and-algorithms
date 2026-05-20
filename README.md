@@ -362,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0262-trips-and-users) |
 | [0601-human-traffic-of-stadium](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0601-human-traffic-of-stadium) |
+| [1164-product-price-at-a-given-date](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
