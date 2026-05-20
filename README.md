@@ -349,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
