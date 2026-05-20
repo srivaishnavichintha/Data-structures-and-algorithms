@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
