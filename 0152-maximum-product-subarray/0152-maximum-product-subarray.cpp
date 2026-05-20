@@ -1,19 +1,20 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int maxproduct=nums[0];
-        int curproduct=nums[0];
-        int res=nums[0];
-        for(int i=1;i<nums.size();i++){
-            int curr=nums[i];
-            if (curr < 0) {
-                swap(maxproduct, curproduct);
-            }
-            maxproduct = max(curr, maxproduct * curr);
-            curproduct = min(curr, curproduct * curr);
-
-            res = max(res, maxproduct);
-        }
-        return res;
+       int pf=1,sf=1;
+       int maxpro=INT_MIN;
+       for(int i=0;i<nums.size();i++){
+          pf*=nums[i];
+          maxpro=max(maxpro,pf);
+          if(pf==0) pf=1;
+          
+       }
+       for(int i=nums.size()-1;i>=0;i--){
+        sf*=nums[i];
+        maxpro=max(maxpro,sf);
+        if(sf==0) sf=1;
+        
+       }
+       return maxpro;
     }
 };
