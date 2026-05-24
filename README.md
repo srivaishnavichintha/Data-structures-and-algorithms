@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3931-check-adjacent-digit-differences) |
 ## Sliding Window
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
 ## Doubly-Linked List
 |  |
 | ------- |
