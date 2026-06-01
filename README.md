@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
