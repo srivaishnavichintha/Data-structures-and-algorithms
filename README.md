@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Data Stream
 |  |
 | ------- |
