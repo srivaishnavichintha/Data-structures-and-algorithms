@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
