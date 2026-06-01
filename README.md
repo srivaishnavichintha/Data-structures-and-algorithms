@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
