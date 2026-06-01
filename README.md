@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1672-richest-customer-wealth) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0088-merge-sorted-array) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Data Stream
 |  |
 | ------- |
