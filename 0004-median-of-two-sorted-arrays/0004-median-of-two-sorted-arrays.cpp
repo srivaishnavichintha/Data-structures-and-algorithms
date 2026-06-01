@@ -19,9 +19,9 @@ public:
             }
         }
         if ((n + m) % 2 == 1) {
-            return static_cast<double>(m1);
+            return (double)(m1);
         } else {
-            double ans = static_cast<double>(m1) + static_cast<double>(m2);
+            double ans = (double)(m1) + (double)(m2);
             return ans / 2.0;
         }
     }
