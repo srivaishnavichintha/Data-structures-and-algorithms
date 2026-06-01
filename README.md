@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0134-gas-station) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String
 |  |
 | ------- |
