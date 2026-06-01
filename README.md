@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0205-isomorphic-strings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
@@ -489,4 +494,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
