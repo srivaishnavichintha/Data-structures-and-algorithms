@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0205-isomorphic-strings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0205-isomorphic-strings) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0014-longest-common-prefix) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
