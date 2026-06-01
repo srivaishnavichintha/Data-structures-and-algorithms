@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0045-jump-game-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
