@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0466-count-the-repetitions](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0466-count-the-repetitions) |
+| [0541-reverse-string-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0466-count-the-repetitions) |
+| [0541-reverse-string-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
