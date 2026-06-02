@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0647-palindromic-substrings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0647-palindromic-substrings) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0647-palindromic-substrings) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0466-count-the-repetitions](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
+| [0647-palindromic-substrings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0788-rotated-digits) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
