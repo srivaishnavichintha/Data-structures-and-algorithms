@@ -1,7 +1,7 @@
 class MinStack {
 public:
     stack<long long> st;
-    long long mini;
+    long long int mini;
     MinStack() {
         
     }
