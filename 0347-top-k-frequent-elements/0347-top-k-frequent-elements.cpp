@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int,int> mp; //using unordered map to store freq
+        unordered_map<int,int> mp; 
         for(int i:nums){
             mp[i]++;
         }
@@ -9,7 +9,7 @@ public:
         priority_queue<pair<int,int>> mxhp;
 
         for(auto const& [num,count]: mp){ 
-            mxhp.push({count,num}); //pushing count first so arrangement happens in the manner of frequency(descending)
+            mxhp.push({count,num}); 
         }
         vector<int> ans;
 
