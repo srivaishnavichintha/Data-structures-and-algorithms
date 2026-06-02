@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
