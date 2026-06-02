@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
