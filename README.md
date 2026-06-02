@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 ## Database
 |  |
@@ -589,4 +595,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
