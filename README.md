@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
