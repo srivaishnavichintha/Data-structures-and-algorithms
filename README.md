@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
