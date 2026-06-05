@@ -34,6 +34,6 @@ public:
                 high=mid-1;
             }
         }
-        return ans;
+        return low;
     }
 };
