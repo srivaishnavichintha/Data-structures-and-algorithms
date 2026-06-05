@@ -12,11 +12,12 @@ public:
     string get(string key, int timestamp) {
          if(mp.find(key) == mp.end()) return "";
          string ans;
-        int low=0,high=mp[key].size()-1;
+         auto &v = mp[key];
+        int low=0,high=v.size()-1;
         while(low<=high){
             int mid=low+(high-low) /2;
-            if(mp[key][mid].first<=timestamp){
-                ans=mp[key][mid].second;
+            if(v[mid].first<=timestamp){
+                ans=v[mid].second;
                 low=mid+1;
             }
             else high=mid-1;
