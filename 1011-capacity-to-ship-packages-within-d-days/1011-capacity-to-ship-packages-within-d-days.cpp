@@ -18,17 +18,16 @@ public:
             maxi=max(weights[i],maxi);
             sum+=weights[i];
         }
-        int res;
+
         int low=maxi,high=sum;
         while(low<=high){
             int mid=low+(high-low) /2;
             long long ans=calcd(weights,mid);
             if(ans<=days){
-                res=mid;
                 high=mid-1;
             }
             else low=mid+1;
         }
-        return res;
+        return low;
     }
 };
