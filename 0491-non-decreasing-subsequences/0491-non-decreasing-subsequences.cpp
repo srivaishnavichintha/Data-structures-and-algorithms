@@ -1,14 +1,14 @@
 class Solution {
 public:
-     void dfs(vector<vector<int>>& res, vector<int>& seq, vector<int>& nums, int pos) {
+     void dfs(vector<vector<int>>& res, vector<int>& seq, vector<int>& nums, int ps) {
         if(seq.size() > 1) res.push_back(seq);
-        unordered_set<int> hash;
-        for(int i = pos; i < nums.size(); ++i) {
-            if((seq.empty() || nums[i] >= seq.back()) && hash.find(nums[i]) == hash.end()) {
+        unordered_set<int> mp;
+        for(int i = ps; i < nums.size(); ++i) {
+            if((seq.empty() || nums[i] >= seq.back()) && mp.find(nums[i]) == mp.end()) {
                 seq.push_back(nums[i]);
                 dfs(res, seq, nums, i + 1);
                 seq.pop_back();
-                hash.insert(nums[i]);
+                mp.insert(nums[i]);
             }
         }
     }
