@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1672-richest-customer-wealth) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
@@ -661,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
