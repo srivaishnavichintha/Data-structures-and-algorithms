@@ -26,19 +26,19 @@ public:
         return maxarea;
     }
     int maximalRectangle(vector<vector<char>>& matrix) {
-        vector<vector<int>> pre(matrix.size(), vector<int>(matrix[0].size()));
+        vector<int> pre(matrix[0].size());
+         int larea=0;
         for(int j=0;j<matrix[0].size();j++)
-           pre[0][j] = matrix[0][j] - '0';
+           pre[j] = matrix[0][j] - '0';
+        larea=largearea(pre);
+
         for(int i=1;i<matrix.size();i++){
             for(int j=0;j<matrix[0].size();j++){
                 if(matrix[i][j]=='1')
-                    pre[i][j]=pre[i-1][j]+1;
-                else pre[i][j]=0;
+                    pre[j]+=1;
+                else pre[j]=0;
             }
-        }
-        int larea=0;
-        for(int i=0;i<pre.size();i++){
-            int area=largearea(pre[i]);
+            int area=largearea(pre);
             larea=max(larea,area);
         }
         return larea;
