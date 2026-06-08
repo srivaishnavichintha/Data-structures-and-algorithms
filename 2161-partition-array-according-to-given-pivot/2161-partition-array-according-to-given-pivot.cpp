@@ -7,12 +7,10 @@ public:
         int i=0,j=n-1;
         while(i<n){
             if (nums[i] < pivot) {
-                res[l] = nums[i];
-                l++;
+                res[l++] = nums[i];
             }
             if (nums[j] > pivot) {
-                res[r] = nums[j];
-                r--;
+                res[r--] = nums[j];
             }
             i ++;
             j --;
