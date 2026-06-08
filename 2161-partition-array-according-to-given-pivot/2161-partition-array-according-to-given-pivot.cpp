@@ -1,11 +1,10 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        int n = nums.size();
-        vector<int> res(n);
-        int l = 0 ,r = n - 1;
-        int i=0,j=n-1;
-        while(i<n){
+        vector<int> res(nums.size());
+        int l = 0 ,r = nums.size() - 1;
+        int i=0,j=nums.size()-1;
+        while(i<nums.size()){
             if (nums[i] < pivot) {
                 res[l++] = nums[i];
             }
