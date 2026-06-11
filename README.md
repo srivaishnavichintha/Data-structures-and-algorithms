@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1672-richest-customer-wealth) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Design
