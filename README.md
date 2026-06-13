@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
