@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
 ## Graph Theory
