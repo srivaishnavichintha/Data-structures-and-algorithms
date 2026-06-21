@@ -1,19 +1,19 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-    void sset(vector<int> &nums,int i,int n,vector<int> res){
-       if(i==n){
-         result.push_back(res);
-         return;
-       }
-       res.push_back(nums[i]);
-       sset(nums,i+1,n,res);
-       res.pop_back();
-       sset(nums,i+1,n,res);
-
+    vector<vector<int>> ans;
+    void combsum(int i,vector<int>& vec,vector<int>& arr){
+        if(arr.size()==i){
+            ans.push_back(vec);
+            return;
+        }
+        vec.push_back(arr[i]);
+        combsum(i+1,vec,arr);
+        vec.pop_back();
+        combsum(i+1,vec,arr);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        sset(nums,0,nums.size(),vector<int> ());
-        return result;
+        vector<int> res;
+        combsum(0,res,nums);
+        return ans;
     }
 };
