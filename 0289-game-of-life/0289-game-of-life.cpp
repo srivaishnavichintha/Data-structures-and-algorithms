@@ -2,12 +2,9 @@ class Solution {
 public:
     
     int clacu(vector<vector<int>>& board, int t,int i, int j) {
-        if (board[i][j] == 0 && t == 3)
-            return 1;
-        else if (board[i][j] == 1) {
-           if(t==2 || t==3) return 1;
-        }
-        return 0;
+        if (board[i][j] == 1)
+        return (t == 2 || t == 3);
+        return t == 3;
     }
 
     void gameOfLife(vector<vector<int>>& board) {
