@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Design
 |  |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
