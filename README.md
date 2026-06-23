@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
+| [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [0962-maximum-width-ramp](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0962-maximum-width-ramp) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -456,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
