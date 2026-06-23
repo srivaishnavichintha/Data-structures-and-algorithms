@@ -11,6 +11,6 @@ public:
                 sum = (sum + exchange(d, sum)) % MOD;
         }
         long long ans=accumulate(dp.begin(),dp.end(),0LL);
-        return ((ans% MOD)<<1) % MOD;
+        return ((ans% MOD)<<1)%MOD;
     }
 };
