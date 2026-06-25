@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2574-left-and-right-sum-differences) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
+| [2326-spiral-matrix-iv](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2326-spiral-matrix-iv) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2326-spiral-matrix-iv) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2326-spiral-matrix-iv) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3614-process-string-with-special-operations-ii) |
