@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0202-happy-number) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
@@ -792,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
