@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -788,12 +792,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
