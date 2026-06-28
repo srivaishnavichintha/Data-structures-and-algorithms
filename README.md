@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0554-brick-wall](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0554-brick-wall](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
