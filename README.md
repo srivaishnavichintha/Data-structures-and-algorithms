@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
