@@ -713,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
