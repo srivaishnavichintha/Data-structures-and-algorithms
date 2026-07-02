@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
+| [0946-validate-stack-sequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0946-validate-stack-sequences) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
