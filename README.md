@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3614-process-string-with-special-operations-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3838-weighted-word-mapping](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3931-check-adjacent-digit-differences) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3113-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Recursion
 |  |
 | ------- |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Database
 |  |
 | ------- |
