@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3745-maximize-expression-of-three-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 | [3838-weighted-word-mapping](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3921-score-validator) |
 ## Hash Table
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3689-maximum-total-subarray-value-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3745-maximize-expression-of-three-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
