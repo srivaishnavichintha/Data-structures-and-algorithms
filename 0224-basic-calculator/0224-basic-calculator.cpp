@@ -2,7 +2,7 @@ class Solution {
 public:
     int calculate(string s) {
         stack<pair<int,int>> st;
-        long long res=0,sign=1;
+        int res=0,sign=1;
         long long num=0;
         for(char ch:s){
             if(isdigit(ch)){
