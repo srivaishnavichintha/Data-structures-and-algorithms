@@ -9,7 +9,7 @@ public:
 
         int num = digit[i] - '0';
         string value = mapping[num];
-
+ 
         for (int j = 0; j < value.length(); j++) {
             output.push_back(value[j]);
             solve(digit, output, i + 1, ans, mapping);
