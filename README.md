@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1672-richest-customer-wealth) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0341-flatten-nested-list-iterator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Iterator
