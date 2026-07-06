@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0341-flatten-nested-list-iterator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0503-next-greater-element-ii) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0394-decode-string) |
 ## Graph Theory
 |  |
 | ------- |
