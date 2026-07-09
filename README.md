@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0120-triangle) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
@@ -852,4 +855,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
