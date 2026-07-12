@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Iterator
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Counting
 |  |
@@ -835,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
 ## Bucket Sort
 |  |
 | ------- |
