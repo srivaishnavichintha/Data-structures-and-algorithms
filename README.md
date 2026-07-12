@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
+| [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -687,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 ## Bit Manipulation
 |  |
 | ------- |
