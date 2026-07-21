@@ -9,7 +9,6 @@ public:
         dq.push_front({userId,tweetId});
         
     }
-    
     vector<int> getNewsFeed(int userId) {
         vector<int> res;
         for (auto &it : dq) {
