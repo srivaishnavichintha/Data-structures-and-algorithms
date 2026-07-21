@@ -2,7 +2,10 @@ class Solution {
 public:
     long long maximumValue(int n, int s, int m) {
         if(n==1) return s;
-        long long k=n/2;
-        return 1LL*s+1LL*k*(m-1)+1;
+        long long div=n/2;
+        long long res=s;
+        res+=div*m;
+        res-=(div-1);
+        return res;
     }
 };
