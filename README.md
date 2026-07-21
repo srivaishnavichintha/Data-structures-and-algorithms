@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
@@ -901,4 +905,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
