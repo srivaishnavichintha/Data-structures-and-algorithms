@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0895-maximum-frequency-stack) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0912-sort-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -814,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
