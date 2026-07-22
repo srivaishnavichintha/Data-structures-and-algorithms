@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0347-top-k-frequent-elements) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0456-132-pattern) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0410-split-array-largest-sum) |
 | [0466-count-the-repetitions](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0466-count-the-repetitions) |
