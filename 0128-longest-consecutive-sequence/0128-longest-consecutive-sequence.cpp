@@ -12,11 +12,10 @@ public:
                 while(vec.count(x+1)){
                   x=x+1;
                   count++;   
-                }
-                longest=max(count,longest);
+            }
+            longest=max(count,longest);
             }
         }
         return longest;
-
     }
 };
