@@ -8,7 +8,6 @@ public:
             rmax=max(rmax,arr[i]);
             rarr[i]=rmax;
         }
-     
         for(int i=0;i<arr.size();i++){
             lmax=max(arr[i],lmax);
             int water=min(lmax,rarr[i])-arr[i];
