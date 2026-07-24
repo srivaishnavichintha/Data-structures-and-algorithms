@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
 | [0875-koko-eating-bananas](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0912-sort-an-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0881-boats-to-save-people) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
+| [0881-boats-to-save-people](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0962-maximum-width-ramp) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1768-merge-strings-alternately) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
+| [0881-boats-to-save-people](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
