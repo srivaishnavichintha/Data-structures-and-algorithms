@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0705-design-hashset) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0769-max-chunks-to-make-sorted) |
