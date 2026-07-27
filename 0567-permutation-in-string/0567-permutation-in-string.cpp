@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-         vector<int> freq(26, 0);
+        vector<int> freq(26, 0);
         vector<int> win(26, 0);
         int n = s1.size();
         int m = s2.size();
