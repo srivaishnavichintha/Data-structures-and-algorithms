@@ -1,7 +1,7 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int start = 0;
+         int start = 0;
         int minLen = INT_MAX;
         if (t.size() > s.size())
             return "";
