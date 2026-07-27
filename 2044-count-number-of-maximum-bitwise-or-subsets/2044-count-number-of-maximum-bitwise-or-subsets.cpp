@@ -3,10 +3,11 @@ public:
     int count=0;
     int maxi=0;
     void maxsubsets(vector<int>& nums,int i, int bitti){
-        if(i==nums.size()){
-            if(bitti==maxi) count++;
+       if (bitti == maxi) {
+            count += (1 << (nums.size() - i));
             return;
         }
+        if (i == nums.size()) return;
         maxsubsets(nums,i+1,bitti|nums[i]);
         maxsubsets(nums,i+1,bitti);
     }
