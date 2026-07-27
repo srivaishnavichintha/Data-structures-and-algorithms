@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
