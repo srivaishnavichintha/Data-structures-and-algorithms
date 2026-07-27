@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1991-find-the-middle-index-in-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -756,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0204-count-primes) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3745-maximize-expression-of-three-elements](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Queue
 |  |
 | ------- |
