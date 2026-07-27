@@ -6,12 +6,10 @@ public:
         int n = s1.size();
         int m = s2.size();
         if (m >= n) {
-
             for (int i = 0; i < n; i++) {
                 int idx = s1[i] - 'a';
                 freq[idx]++;
             }
-
             for (int i = 0; i < n; i++) {
                 int idx = s2[i] - 'a';
                 win[idx]++;
@@ -29,7 +27,6 @@ public:
                 }
             }
         }
-
         return false;
     }
 };
