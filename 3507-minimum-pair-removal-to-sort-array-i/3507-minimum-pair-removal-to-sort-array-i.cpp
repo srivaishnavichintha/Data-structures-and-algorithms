@@ -1,30 +1,30 @@
 class Solution {
 public:
-    int sort(vector<int>& nums) {
-        int sort = 0;
-        for (int i = 0; i < nums.size() - 1; i++) {
-            if (nums[i] > nums[i + 1]) {
-                sort = 1;
-                break;
-            }
-        }
-        return sort;
-    }
     int minimumPairRemoval(vector<int>& nums) {
-        int count=0;
-        while (sort(nums) != 0) {
-            int minSum = INT_MAX, index = 0;
-            for (int i = 0; i < nums.size() - 1; i++) {
-                int sum = nums[i] + nums[i + 1];
-                if (sum < minSum) {
-                    minSum = sum;
-                    index = i;
+         int count = 0;
+        while (true) {
+            bool sorted = true;
+            for (int i = 1; i < nums.size(); i++) {
+                if (nums[i] < nums[i - 1]) {
+                    sorted = false;
+                    break;
                 }
             }
-            nums[index] = minSum;
-            nums.erase(nums.begin() + index + 1);
+            if (sorted)
+                break;
+            int mini = INT_MAX;
+            int idx = 0;
+            for (int i = 0; i < nums.size() - 1; i++) {
+                if (nums[i] + nums[i + 1] < mini) {
+                    mini = nums[i] + nums[i + 1];
+                    idx = i;
+                }
+            }
+            nums[idx] = mini;
+            nums.erase(nums.begin() + idx + 1);
             count++;
-        };
+        }
+
         return count;
     }
 };
