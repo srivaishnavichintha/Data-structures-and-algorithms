@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
