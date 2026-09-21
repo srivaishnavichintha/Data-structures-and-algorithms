@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3498-reverse-degree-of-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3614-process-string-with-special-operations-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2326-spiral-matrix-iv) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+| [3498-reverse-degree-of-a-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3614-process-string-with-special-operations-ii) |
