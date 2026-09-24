@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3524-find-x-value-of-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
 | [3524-find-x-value-of-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3783-mirror-distance-of-an-integer) |
