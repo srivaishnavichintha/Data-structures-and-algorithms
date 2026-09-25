@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
+| [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-push-dominoes](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0838-push-dominoes) |
 | [0981-time-based-key-value-store](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1472-design-browser-history) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Queue
 |  |
@@ -927,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+| [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Bucket Sort
 |  |
 | ------- |
