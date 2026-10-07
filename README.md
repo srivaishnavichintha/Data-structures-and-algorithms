@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0394-decode-string) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 ## Bucket Sort
 |  |
