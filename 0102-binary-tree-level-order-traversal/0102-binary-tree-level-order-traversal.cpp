@@ -18,19 +18,17 @@ public:
         vector<vector<int>> res;
         queue<TreeNode*> pq;
         pq.push(root);
-        while (!pq.empty()) {
-            int n = pq.size();
-            vector<int> t;
-            for (int i = 0; i < n; i++) {
-                TreeNode* temp = pq.front();
-                pq.pop();
-                t.push_back(temp->val);
-                if (temp->left)
-                    pq.push(temp->left);
-                if (temp->right)
-                    pq.push(temp->right);
-            }
-            res.push_back(t);
+        while(!pq.empty()){
+           vector<int> curr;
+           int n=pq.size();
+           for(int i=0;i<n;i++){
+             TreeNode* pre=pq.front();
+             pq.pop();
+             if(pre->left!=NULL)pq.push(pre->left);
+             if(pre->right!=NULL)pq.push(pre->right);
+             curr.push_back(pre->val);
+           }
+           res.push_back(curr);
         }
         return res;
     }
