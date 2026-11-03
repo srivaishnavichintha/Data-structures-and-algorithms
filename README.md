@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3689-maximum-total-subarray-value-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3870-count-commas-in-range) |
