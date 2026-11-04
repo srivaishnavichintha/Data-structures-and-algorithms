@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3524-find-x-value-of-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -764,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3225-maximum-score-from-grid-operations](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3225-maximum-score-from-grid-operations) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3524-find-x-value-of-array-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/3742-maximum-path-score-in-a-grid) |
