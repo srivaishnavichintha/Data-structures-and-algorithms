@@ -1,54 +1,71 @@
-class Window {
-    multiset<int> s;
-    multiset<int>::iterator mid;  // the (h+1)-th smallest: everything before it is the low half
-    long long low, total;
-    int odd;
-
-public:
-    Window(vector<int>::const_iterator first, vector<int>::const_iterator last)
-        : s(first, last), odd(s.size() & 1) {
-        mid = next(s.begin(), s.size() / 2);
-        low = accumulate(s.begin(), mid, 0LL);
-        total = accumulate(s.begin(), s.end(), 0LL);
-    }
-
-    long long cost() const {  // larger half minus smaller half
-        return total - 2 * low - odd * *mid;
-    }
-
-    long long slide(int out, int in) {
-        s.insert(in);
-        if (in < *mid)  // in joins the low half and pushes its largest up
-            low += in - *--mid;
-        if (out < *mid) {  // out leaves the low half: mid moves down into it
-            low += *mid++ - out;
-            s.erase(s.find(out));
-        } else if (out == *mid) {
-            mid = s.erase(mid);
-        } else {
-            s.erase(s.find(out));
-        }
-        total += in - out;
-        return cost();
-    }
-};
-
 class Solution {
+    vector<long long> getCosts(const vector<int>& nums, int x) {
+        int n = nums.size();
+        vector<long long> ops(n);
+
+        multiset<int> left, right;
+        long long sumL = 0, sumR = 0;
+
+        for (int i = 0; i < n; ++i) {
+            int v = nums[i];
+            if (left.empty() || v <= *left.rbegin()) {
+                left.insert(v);
+                sumL += v;
+            } else {
+                right.insert(v);
+                sumR += v;
+            }
+            if (i >= x) {
+                v = nums[i - x];
+                auto it = left.find(v);
+                if (it != left.end()) {
+                    sumL -= v;
+                    left.erase(it);
+                } else {
+                    it = right.find(v);
+                    sumR -= v;
+                    right.erase(it);
+                }
+            }
+            if (left.size() > right.size() + 1) {
+                auto it = prev(left.end());
+                v = *it;
+                right.insert(v);
+                left.erase(it);
+                sumL -= v;
+                sumR += v;
+            } else if (left.size() < right.size()) {
+                auto it = right.begin();
+                v = *it;
+                left.insert(v);
+                right.erase(it);
+                sumL += v;
+                sumR -= v;
+            }
+            if (i >= x - 1) {
+                long long mid = *left.rbegin();
+                long long leftCost = mid * (long long)left.size() - sumL;
+                long long rightCost = sumR - mid * (long long)right.size();
+                ops[i] = leftCost + rightCost;
+            }
+        }
+        return ops;
+    }
+
 public:
     long long minOperations(vector<int>& nums, int x, int k) {
         int n = nums.size();
-        Window win(nums.begin(), nums.begin() + x);
-        vector<long long> cost{win.cost()};
-        for (int i = x; i < n; ++i)
-            cost.push_back(win.slide(nums[i - x], nums[i]));
+        vector<long long> ops = getCosts(nums, x);
+        vector<long long> pre(n + 1, 0);
+        vector<long long> cur(n + 1, LLONG_MAX);
 
-        vector<long long> best(n + 1);  // best[i]: min ops for the windows placed so far inside nums[0..i)
-        for (int j = 0; j < k; ++j) {
-            vector<long long> layer(n + 1, LLONG_MAX / 2);
-            for (int i = x; i <= n; ++i)
-                layer[i] = min(layer[i - 1], best[i - x] + cost[i - x]);
-            best = move(layer);
+        for (int j = 1; j <= k; ++j) {
+            fill(cur.begin(), cur.end(), LLONG_MAX);
+            for (int i = j * x; i <= n; ++i) {
+                cur[i] = min(cur[i - 1], pre[i - x] + ops[i - 1]);
+            }
+            pre.swap(cur);
         }
-        return best[n];
+        return pre[n];
     }
 };
