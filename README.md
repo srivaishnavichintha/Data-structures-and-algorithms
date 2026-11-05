@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1470-shuffle-the-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/0962-maximum-width-ramp) |
 | [1332-remove-palindromic-subsequences](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1768-merge-strings-alternately) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1861-rotating-the-box](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1861-rotating-the-box) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srivaishnavichintha/Data-structures-and-algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
